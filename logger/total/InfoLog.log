@@ -1,0 +1,129 @@
+INFO: 2025/02/19 20:02:30 logger.go:113: [2025-02-19 20:02:30] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-02 Process completed - Total processed: 973, Total failed: 1733
+INFO: 2025/02/19 20:02:30 logger.go:113: [2025-02-19 20:02:30] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1732 errors
+INFO: 2025/02/19 20:02:30 logger.go:113: [2025-02-19 20:02:30] D:/GoProject/pred/process/process.go:133   ReceiveModelResponse: 1 errors
+INFO: 2025/02/19 20:02:39 logger.go:113: [2025-02-19 20:02:39] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-02 Process completed - Total processed: 973, Total failed: 1733
+INFO: 2025/02/19 20:02:39 logger.go:113: [2025-02-19 20:02:39] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1732 errors
+INFO: 2025/02/19 20:02:39 logger.go:113: [2025-02-19 20:02:39] D:/GoProject/pred/process/process.go:133   ReceiveModelResponse: 1 errors
+INFO: 2025/02/19 20:38:23 logger.go:113: [2025-02-19 20:38:23] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-02 Process completed - Total processed: 814, Total failed: 1892
+INFO: 2025/02/19 20:38:23 logger.go:113: [2025-02-19 20:38:23] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1340 errors
+INFO: 2025/02/19 20:38:23 logger.go:113: [2025-02-19 20:38:23] D:/GoProject/pred/process/process.go:133   ReceiveModelResponse: 1 errors
+INFO: 2025/02/19 20:38:23 logger.go:113: [2025-02-19 20:38:23] D:/GoProject/pred/process/process.go:133   UpdatePredictTime: 1 errors
+INFO: 2025/02/19 20:38:23 logger.go:113: [2025-02-19 20:38:23] D:/GoProject/pred/process/process.go:133   UpdatePreprocessTime: 4 errors
+INFO: 2025/02/19 20:38:23 logger.go:113: [2025-02-19 20:38:23] D:/GoProject/pred/process/process.go:133   GetPointInfo: 546 errors
+INFO: 2025/02/19 20:39:11 logger.go:113: [2025-02-19 20:39:11] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-02 Process completed - Total processed: 814, Total failed: 1892
+INFO: 2025/02/19 20:39:11 logger.go:113: [2025-02-19 20:39:11] D:/GoProject/pred/process/process.go:133   ReceiveModelResponse: 1 errors
+INFO: 2025/02/19 20:39:11 logger.go:113: [2025-02-19 20:39:11] D:/GoProject/pred/process/process.go:133   UpdatePredictTime: 1 errors
+INFO: 2025/02/19 20:39:11 logger.go:113: [2025-02-19 20:39:11] D:/GoProject/pred/process/process.go:133   UpdatePreprocessTime: 4 errors
+INFO: 2025/02/19 20:39:11 logger.go:113: [2025-02-19 20:39:11] D:/GoProject/pred/process/process.go:133   GetPointInfo: 546 errors
+INFO: 2025/02/19 20:39:11 logger.go:113: [2025-02-19 20:39:11] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1340 errors
+INFO: 2025/02/19 20:41:35 logger.go:113: [2025-02-19 20:41:35] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-02 Process completed - Total processed: 814, Total failed: 1892
+INFO: 2025/02/19 20:41:35 logger.go:113: [2025-02-19 20:41:35] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1340 errors
+INFO: 2025/02/19 20:41:35 logger.go:113: [2025-02-19 20:41:35] D:/GoProject/pred/process/process.go:133   ReceiveModelResponse: 1 errors
+INFO: 2025/02/19 20:41:35 logger.go:113: [2025-02-19 20:41:35] D:/GoProject/pred/process/process.go:133   UpdatePredictTime: 1 errors
+INFO: 2025/02/19 20:41:35 logger.go:113: [2025-02-19 20:41:35] D:/GoProject/pred/process/process.go:133   UpdatePreprocessTime: 4 errors
+INFO: 2025/02/19 20:41:35 logger.go:113: [2025-02-19 20:41:35] D:/GoProject/pred/process/process.go:133   GetPointInfo: 546 errors
+INFO: 2025/02/19 20:43:24 logger.go:113: [2025-02-19 20:43:24] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-02 Process completed - Total processed: 814, Total failed: 1892
+INFO: 2025/02/19 20:43:24 logger.go:113: [2025-02-19 20:43:24] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1340 errors
+INFO: 2025/02/19 20:43:24 logger.go:113: [2025-02-19 20:43:24] D:/GoProject/pred/process/process.go:133   ReceiveModelResponse: 1 errors
+INFO: 2025/02/19 20:43:24 logger.go:113: [2025-02-19 20:43:24] D:/GoProject/pred/process/process.go:133   UpdatePredictTime: 1 errors
+INFO: 2025/02/19 20:43:24 logger.go:113: [2025-02-19 20:43:24] D:/GoProject/pred/process/process.go:133   UpdatePreprocessTime: 4 errors
+INFO: 2025/02/19 20:43:24 logger.go:113: [2025-02-19 20:43:24] D:/GoProject/pred/process/process.go:133   GetPointInfo: 546 errors
+INFO: 2025/02/19 20:47:58 logger.go:113: [2025-02-19 20:47:58] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-02 Process completed - Total processed: 973, Total failed: 1733
+INFO: 2025/02/19 20:47:58 logger.go:113: [2025-02-19 20:47:58] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1732 errors
+INFO: 2025/02/19 20:47:58 logger.go:113: [2025-02-19 20:47:58] D:/GoProject/pred/process/process.go:133   ReceiveModelResponse: 1 errors
+INFO: 2025/02/19 20:53:32 logger.go:113: [2025-02-19 20:53:32] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-02 Process completed - Total processed: 973, Total failed: 1733
+INFO: 2025/02/19 20:53:32 logger.go:113: [2025-02-19 20:53:32] D:/GoProject/pred/process/process.go:133   ReceiveModelResponse: 1 errors
+INFO: 2025/02/19 20:53:32 logger.go:113: [2025-02-19 20:53:32] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1732 errors
+INFO: 2025/02/19 20:53:42 logger.go:113: [2025-02-19 20:53:42] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-02 Process completed - Total processed: 973, Total failed: 1733
+INFO: 2025/02/19 20:53:42 logger.go:113: [2025-02-19 20:53:42] D:/GoProject/pred/process/process.go:133   ReceiveModelResponse: 1 errors
+INFO: 2025/02/19 20:53:42 logger.go:113: [2025-02-19 20:53:42] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1732 errors
+INFO: 2025/02/19 20:53:47 logger.go:113: [2025-02-19 20:53:47] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-03 Process completed - Total processed: 974, Total failed: 1732
+INFO: 2025/02/19 20:53:47 logger.go:113: [2025-02-19 20:53:47] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1732 errors
+INFO: 2025/02/19 20:54:44 logger.go:113: [2025-02-19 20:54:44] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-04 Process completed - Total processed: 973, Total failed: 1733
+INFO: 2025/02/19 20:54:44 logger.go:113: [2025-02-19 20:54:44] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1733 errors
+INFO: 2025/02/19 20:54:49 logger.go:113: [2025-02-19 20:54:49] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-05 Process completed - Total processed: 973, Total failed: 1733
+INFO: 2025/02/19 20:54:49 logger.go:113: [2025-02-19 20:54:49] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1733 errors
+INFO: 2025/02/19 20:55:46 logger.go:113: [2025-02-19 20:55:46] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-06 Process completed - Total processed: 973, Total failed: 1733
+INFO: 2025/02/19 20:55:46 logger.go:113: [2025-02-19 20:55:46] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1733 errors
+INFO: 2025/02/19 20:55:51 logger.go:113: [2025-02-19 20:55:51] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-07 Process completed - Total processed: 973, Total failed: 1733
+INFO: 2025/02/19 20:55:51 logger.go:113: [2025-02-19 20:55:51] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1733 errors
+INFO: 2025/02/19 21:00:38 logger.go:113: [2025-02-19 21:00:38] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-07 Process completed - Total processed: 971, Total failed: 1735
+INFO: 2025/02/19 21:00:38 logger.go:113: [2025-02-19 21:00:38] D:/GoProject/pred/process/process.go:133   ReceiveModelResponse: 2 errors
+INFO: 2025/02/19 21:00:38 logger.go:113: [2025-02-19 21:00:38] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1733 errors
+INFO: 2025/02/19 21:01:13 logger.go:113: [2025-02-19 21:01:13] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-08 Process completed - Total processed: 973, Total failed: 1733
+INFO: 2025/02/19 21:01:13 logger.go:113: [2025-02-19 21:01:13] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1733 errors
+INFO: 2025/02/19 21:01:18 logger.go:113: [2025-02-19 21:01:18] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-05-09 Process completed - Total processed: 973, Total failed: 1733
+INFO: 2025/02/19 21:01:18 logger.go:113: [2025-02-19 21:01:18] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 1733 errors
+INFO: 2025/02/20 11:11:27 logger.go:122: [2025-02-20 11:11:27] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-01 Process completed - Total processed: 607, Total failed: 3161
+INFO: 2025/02/20 11:11:27 logger.go:122: [2025-02-20 11:11:27] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3152 errors
+INFO: 2025/02/20 11:11:27 logger.go:122: [2025-02-20 11:11:27] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 9 errors
+INFO: 2025/02/20 12:47:27 logger.go:122: [2025-02-20 12:47:27] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-01 Process completed - Total processed: 607, Total failed: 3161
+INFO: 2025/02/20 12:47:27 logger.go:122: [2025-02-20 12:47:27] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3152 errors
+INFO: 2025/02/20 12:47:27 logger.go:122: [2025-02-20 12:47:27] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 9 errors
+INFO: 2025/02/20 12:53:15 logger.go:122: [2025-02-20 12:53:15] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-01 Process completed - Total processed: 607, Total failed: 3161
+INFO: 2025/02/20 12:53:15 logger.go:122: [2025-02-20 12:53:15] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3152 errors
+INFO: 2025/02/20 12:53:15 logger.go:122: [2025-02-20 12:53:15] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 9 errors
+INFO: 2025/02/20 12:56:27 logger.go:122: [2025-02-20 12:56:27] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-01 Process completed - Total processed: 607, Total failed: 3161
+INFO: 2025/02/20 12:56:27 logger.go:122: [2025-02-20 12:56:27] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 9 errors
+INFO: 2025/02/20 12:56:27 logger.go:122: [2025-02-20 12:56:27] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3152 errors
+INFO: 2025/02/20 12:56:43 logger.go:122: [2025-02-20 12:56:43] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-02 Process completed - Total processed: 607, Total failed: 3161
+INFO: 2025/02/20 12:56:43 logger.go:122: [2025-02-20 12:56:43] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3152 errors
+INFO: 2025/02/20 12:56:43 logger.go:122: [2025-02-20 12:56:43] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 9 errors
+INFO: 2025/02/20 13:36:23 logger.go:122: [2025-02-20 13:36:23] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-02 Process completed - Total processed: 607, Total failed: 3161
+INFO: 2025/02/20 13:36:23 logger.go:122: [2025-02-20 13:36:23] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3152 errors
+INFO: 2025/02/20 13:36:23 logger.go:122: [2025-02-20 13:36:23] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 9 errors
+INFO: 2025/02/20 16:04:55 logger.go:122: [2025-02-20 16:04:55] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-02 Process completed - Total processed: 607, Total failed: 3161
+INFO: 2025/02/20 16:04:55 logger.go:122: [2025-02-20 16:04:55] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3152 errors
+INFO: 2025/02/20 16:04:55 logger.go:122: [2025-02-20 16:04:55] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 9 errors
+INFO: 2025/02/20 16:05:32 logger.go:122: [2025-02-20 16:05:32] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-03 Process completed - Total processed: 606, Total failed: 3162
+INFO: 2025/02/20 16:05:32 logger.go:122: [2025-02-20 16:05:32] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3152 errors
+INFO: 2025/02/20 16:05:32 logger.go:122: [2025-02-20 16:05:32] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 10 errors
+INFO: 2025/02/20 16:19:52 logger.go:123: [2025-02-20 16:19:52] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-03 Process completed - Total processed: 608, Total failed: 3160
+INFO: 2025/02/20 16:19:52 logger.go:123: [2025-02-20 16:19:52] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3152 errors
+INFO: 2025/02/20 16:19:52 logger.go:123: [2025-02-20 16:19:52] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 8 errors
+INFO: 2025/02/20 16:19:59 logger.go:123: [2025-02-20 16:19:59] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-04 Process completed - Total processed: 608, Total failed: 3160
+INFO: 2025/02/20 16:19:59 logger.go:123: [2025-02-20 16:19:59] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3152 errors
+INFO: 2025/02/20 16:19:59 logger.go:123: [2025-02-20 16:19:59] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 8 errors
+INFO: 2025/02/20 16:20:33 logger.go:123: [2025-02-20 16:20:33] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-05 Process completed - Total processed: 606, Total failed: 3162
+INFO: 2025/02/20 16:20:33 logger.go:123: [2025-02-20 16:20:33] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 11 errors
+INFO: 2025/02/20 16:20:33 logger.go:123: [2025-02-20 16:20:33] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3151 errors
+INFO: 2025/02/20 16:20:40 logger.go:123: [2025-02-20 16:20:40] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-06 Process completed - Total processed: 606, Total failed: 3162
+INFO: 2025/02/20 16:20:40 logger.go:123: [2025-02-20 16:20:40] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3151 errors
+INFO: 2025/02/20 16:20:40 logger.go:123: [2025-02-20 16:20:40] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 11 errors
+INFO: 2025/02/20 16:21:16 logger.go:123: [2025-02-20 16:21:16] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-07 Process completed - Total processed: 603, Total failed: 3165
+INFO: 2025/02/20 16:21:16 logger.go:123: [2025-02-20 16:21:16] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3153 errors
+INFO: 2025/02/20 16:21:16 logger.go:123: [2025-02-20 16:21:16] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 12 errors
+INFO: 2025/02/20 16:21:22 logger.go:123: [2025-02-20 16:21:22] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-08 Process completed - Total processed: 603, Total failed: 3165
+INFO: 2025/02/20 16:21:22 logger.go:123: [2025-02-20 16:21:22] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3153 errors
+INFO: 2025/02/20 16:21:22 logger.go:123: [2025-02-20 16:21:22] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 12 errors
+INFO: 2025/02/20 16:25:10 logger.go:123: [2025-02-20 16:25:10] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-08 Process completed - Total processed: 604, Total failed: 3164
+INFO: 2025/02/20 16:25:10 logger.go:123: [2025-02-20 16:25:10] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 12 errors
+INFO: 2025/02/20 16:25:10 logger.go:123: [2025-02-20 16:25:10] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3152 errors
+INFO: 2025/02/20 16:25:37 logger.go:123: [2025-02-20 16:25:37] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-09 Process completed - Total processed: 591, Total failed: 3177
+INFO: 2025/02/20 16:25:37 logger.go:123: [2025-02-20 16:25:37] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3164 errors
+INFO: 2025/02/20 16:25:37 logger.go:123: [2025-02-20 16:25:37] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 13 errors
+INFO: 2025/02/20 16:25:58 logger.go:123: [2025-02-20 16:25:58] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-09 Process completed - Total processed: 591, Total failed: 3177
+INFO: 2025/02/20 16:25:58 logger.go:123: [2025-02-20 16:25:58] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3164 errors
+INFO: 2025/02/20 16:25:58 logger.go:123: [2025-02-20 16:25:58] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 13 errors
+INFO: 2025/02/20 16:28:50 logger.go:123: [2025-02-20 16:28:50] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-09 Process completed - Total processed: 592, Total failed: 3176
+INFO: 2025/02/20 16:28:50 logger.go:123: [2025-02-20 16:28:50] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3164 errors
+INFO: 2025/02/20 16:28:50 logger.go:123: [2025-02-20 16:28:50] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 12 errors
+INFO: 2025/02/20 16:29:01 logger.go:123: [2025-02-20 16:29:01] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-10 Process completed - Total processed: 592, Total failed: 3176
+INFO: 2025/02/20 16:29:01 logger.go:123: [2025-02-20 16:29:01] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 12 errors
+INFO: 2025/02/20 16:29:01 logger.go:123: [2025-02-20 16:29:01] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3164 errors
+INFO: 2025/02/20 16:29:48 logger.go:123: [2025-02-20 16:29:48] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-10 Process completed - Total processed: 592, Total failed: 3176
+INFO: 2025/02/20 16:29:48 logger.go:123: [2025-02-20 16:29:48] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3164 errors
+INFO: 2025/02/20 16:29:48 logger.go:123: [2025-02-20 16:29:48] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 12 errors
+INFO: 2025/02/20 16:30:20 logger.go:123: [2025-02-20 16:30:20] D:/GoProject/pred/process/process.go:128 EvalDay: 2023-01-11 Process completed - Total processed: 589, Total failed: 3179
+INFO: 2025/02/20 16:30:20 logger.go:123: [2025-02-20 16:30:20] D:/GoProject/pred/process/process.go:133   FilterPrepareRecordsFailed: 3167 errors
+INFO: 2025/02/20 16:30:20 logger.go:123: [2025-02-20 16:30:20] D:/GoProject/pred/process/process.go:133   ErrorFromPython: 12 errors
+INFO: 2025/02/20 19:18:01 logger.go:123: [2025-02-20 19:18:01] D:/GoProject/pred/process/process.go:129 EvalDay: 2025-02-20 Process completed - Total processed: 0, Total failed: 3768
+INFO: 2025/02/20 19:18:01 logger.go:123: [2025-02-20 19:18:01] D:/GoProject/pred/process/process.go:134   OriginDataFailed: 3768 errors
+INFO: 2025/02/20 20:12:22 logger.go:123: [2025-02-20 20:12:22] D:/GoProject/pred/process/process.go:129 EvalDay: 2023-01-01 Process completed - Total processed: 606, Total failed: 3162
+INFO: 2025/02/20 20:12:22 logger.go:123: [2025-02-20 20:12:22] D:/GoProject/pred/process/process.go:134   OriginSQLFailed: 999 errors
+INFO: 2025/02/20 20:12:22 logger.go:123: [2025-02-20 20:12:22] D:/GoProject/pred/process/process.go:134   FilterPrepareRecordsFailed: 2153 errors
+INFO: 2025/02/20 20:12:22 logger.go:123: [2025-02-20 20:12:22] D:/GoProject/pred/process/process.go:134   ErrorFromPython: 10 errors
+INFO: 2025/02/20 21:09:35 logger.go:123: [2025-02-20 21:09:35] D:/GoProject/pred/process/process.go:129 EvalDay: 2023-01-01 Process completed - Total processed: 606, Total failed: 3162
+INFO: 2025/02/20 21:09:35 logger.go:123: [2025-02-20 21:09:35] D:/GoProject/pred/process/process.go:134   ErrorFromPython: 10 errors
+INFO: 2025/02/20 21:09:35 logger.go:123: [2025-02-20 21:09:35] D:/GoProject/pred/process/process.go:134   OriginSQLFailed: 999 errors
+INFO: 2025/02/20 21:09:35 logger.go:123: [2025-02-20 21:09:35] D:/GoProject/pred/process/process.go:134   FilterPrepareRecordsFailed: 2153 errors
