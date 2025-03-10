@@ -1,0 +1,48 @@
+{
+  "task": {
+    "task": "gross&predict",
+    "is_emergency": "true"
+  },
+  "app": {
+    "log_level": "info",
+    "time_zone": "Asia/Shanghai"
+  },
+  "database": {
+    "host": "1.1.1.1",
+    "port": "1433",
+    "user": "sa",
+    "password": "haibaraa1",
+    "db_name": "haibaraa1",
+    "max_idle_conns": 20,
+    "max_open_conns": 50,
+    "max_lifetime": 3600000000000,
+    "max_idle_time": 300000000000
+  },
+  "data_source": {
+    "mode": "db",
+    "http": {
+      "base_url": "http://1.1.1.1:8080",
+      "headers": {
+        "appKey": "ToBeDone",
+        "appSecret": "ToBeDone"
+      },
+      "timeout": 30000000000
+    }
+  },
+  "rabbitmq": {
+    "host": "localhost",
+    "port": 5672,
+    "username": "guest",
+    "password": "guest",
+    "vhost": "/"
+  },
+  "process": {
+    "batch_size": 20,
+    "workers": 10,
+    "timeout": 1800000000000,
+    "cache_timeout": 86400000000000
+  },
+  "schedule": {
+    "schedule_cron": "38 14 * * ?"
+  }
+}
